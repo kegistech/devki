@@ -68,13 +68,13 @@
  ***/
 
 
-:root{
-  --theme-color: #F76188;
-  --secondary-color: #111111;
-  --text-color: #666666;
-  --title-color: #111111;
-  --text-font: "Nunito", sans-serif;
-  --title-font: "Nunito", sans-serif;
+:root {
+    --theme-color: #E33510;
+    --secondary-color: #111111;
+    --text-color: #666666;
+    --title-color: #111111;
+    --text-font: "Nunito", sans-serif;
+    --title-font: "Nunito", sans-serif;
 }
 
 
