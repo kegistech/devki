@@ -1,11 +1,11 @@
 
 /** banner-section **/
 
-.banner-section{
-  position: relative;
-  padding: 70px 0px 115px 0px;
-  overflow: hidden;
-  background: linear-gradient(78.33deg, #FFCF78 5.9%, #FEE2B1 97.88%);
+.banner-section {
+    position: relative;
+    padding: 70px 0px 115px 0px;
+    overflow: hidden;
+    background: linear-gradient( 78.33deg, #E33510 5.9%, #E5006F 97.88% );
 }
 
 .banner-section .pattern-layer{
@@ -43,6 +43,7 @@
   line-height: 76px;
   font-weight: 800;
   margin-bottom: 21px;
+  color:#fff;
 }
 
 .banner-section .content-box h3{

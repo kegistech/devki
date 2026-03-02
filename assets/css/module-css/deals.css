@@ -1,20 +1,22 @@
 
 /** deals-section **/
 
-.deals-section{
-  position: relative;
-  background: #FFE8EE;
+.deals-section {
+    position: relative;
+    background: #E33510;
 }
-
-.deals-section .pattern-layer .pattern-1{
-  position: absolute;
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  height: 76px;
-  background-repeat: no-repeat;
-  background-position: top center;
-  background-repeat: repeat-x;
+    .deals-section .sec-title h2 span {
+        color:#fff;
+    }
+.deals-section .pattern-layer .pattern-1 {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 76px;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-repeat: repeat-x;
 }
 
 .deals-section .pattern-layer .pattern-2{
